@@ -1,0 +1,1 @@
+pip3 install numpy pandas matplotlib scipy scikit-learn tensorflow keras jupyter seaborn scrapy
