@@ -16,3 +16,9 @@
 14. feature data: should some be left out?
 15. feature data: should some be engineered? 
 16. feature data: did the engineering work? what did it do? 
+
+
+You are not there to gain transcendental understanding - you are there to find out what you need to do in order to train an accurate model.  
+There is a difference.  
+Both involve understanding and analysing the data.  
+One is self involved egotism, the other is useful. 
