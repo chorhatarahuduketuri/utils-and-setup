@@ -19,7 +19,7 @@
 9. feature data: independent or dependent?
 10. feature data: what are the descriptive statistics of the data? 
 11. feature data: is it sparse or dense? 
-12. feature data: how much of it is missing/zero? 
+12. feature data: how much of it is missing? 
 
 ##### Graphical
 13. feature data: what does it look like when graphed? 
