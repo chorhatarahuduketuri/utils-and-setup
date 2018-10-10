@@ -2,7 +2,7 @@
 #### Prologue
 0. RTFM
 
-#### Start
+#### Basics
 1. What does it look like? 
 2. How much of it is there?
 3. What type of data is it?
