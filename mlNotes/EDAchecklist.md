@@ -10,9 +10,9 @@
 #### Target Variable
 4. target variable: datatype? 
 5. target variable: descriptive statistics? 
-6. target variable: unbalanced? does it need weighting? 
-7. target variable: what sorts of models can predict this? 
-8. target variable: is it linearly separable?
+6. target variable: unbalanced? does it need weighting?
+7. target variable: is it linearly separable? 
+8. target variable: what sorts of models can predict this? 
 
 #### Feature Data
 ##### Numeric
