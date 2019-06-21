@@ -15,8 +15,8 @@
     dif = diff --stat
     s = status
     re = rebase -i
-    fe = fetch --all
-    fare = !git fetch --all && git rebase -i
+    fe = fetch --all -p
+    fare = !git fetch --all -p && git rebase -i
 [rebase]
     autosquash = true
 [rerere]
