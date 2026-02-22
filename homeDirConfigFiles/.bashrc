@@ -10,7 +10,9 @@ alias py='python'
 export PATH="~/.poetry/bin:$PATH"
 
 # maintainence
-alias getuptodate='sudo apt-get update && sudo apt-get upgrade'
+# alias getuptodate='sudo apt-get update && sudo apt-get upgrade'
+alias cleandocker='docker system prune -a --volumes'
+alias getuptodate='sudo apt-get update && sudo apt-get upgrade -y && sudo apt-get autoremove -y && sudo apt-get autoclean -y && sudo snap refresh'
 
 # Eternal bash history.
 # ---------------------
